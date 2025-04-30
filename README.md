@@ -1,13 +1,4 @@
 # SAP-Security-Testing
-Perfect, Harsh — you are asking exactly the right way:  
-🔴 **"How to *find* each vulnerability, what tool/command to use, and what *response* shows that it’s vulnerable."**
-
-I will **explain step-by-step**, **one attack surface at a time**, giving:
-
-- ✔️ How to test (tool + command)
-- ✔️ What positive response looks like (how you know it's vulnerable)
-- ✔️ Small tips for better exploitation
-
 ---
 
 # 🛠️ Detailed Step-by-Step — SAP Red Team Attack Surfaces
